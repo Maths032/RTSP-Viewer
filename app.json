@@ -1,0 +1,12 @@
+{
+  "name": "RTSP-View",
+  "displayName": "RTSP-View",
+  "expo": {
+    "name": "RTSP-View",
+    "slug": "RTSP-View",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
